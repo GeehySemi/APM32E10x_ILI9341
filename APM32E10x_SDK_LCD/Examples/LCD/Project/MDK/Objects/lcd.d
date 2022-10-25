@@ -1,0 +1,14 @@
+.\objects\lcd.o: ..\..\Source\lcd.c
+.\objects\lcd.o: ..\..\Include\lcd.h
+.\objects\lcd.o: ..\..\..\..\Libraries\Device\Geehy\APM32E10x\Include\apm32e10x.h
+.\objects\lcd.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm3.h
+.\objects\lcd.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcd.o: ..\..\..\..\Libraries\CMSIS\Include\cmsis_version.h
+.\objects\lcd.o: ..\..\..\..\Libraries\CMSIS\Include\cmsis_compiler.h
+.\objects\lcd.o: ..\..\..\..\Libraries\CMSIS\Include\cmsis_armcc.h
+.\objects\lcd.o: ..\..\..\..\Libraries\Device\Geehy\APM32E10x\Include\system_apm32e10x.h
+.\objects\lcd.o: ..\..\..\..\Libraries\APM32E10x_StdPeriphDriver\inc\apm32e10x_gpio.h
+.\objects\lcd.o: ..\..\..\..\Libraries\APM32E10x_StdPeriphDriver\inc\apm32e10x_rcm.h
+.\objects\lcd.o: ..\..\..\..\Libraries\APM32E10x_StdPeriphDriver\inc\apm32e10x_smc.h
+.\objects\lcd.o: ..\..\Include\delay.h
+.\objects\lcd.o: ..\..\Include\font.h

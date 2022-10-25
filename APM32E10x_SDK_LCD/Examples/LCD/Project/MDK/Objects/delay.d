@@ -1,0 +1,10 @@
+.\objects\delay.o: ..\..\Source\delay.c
+.\objects\delay.o: ..\..\Include\delay.h
+.\objects\delay.o: ..\..\..\..\Libraries\Device\Geehy\APM32E10x\Include\apm32e10x.h
+.\objects\delay.o: ..\..\..\..\Libraries\CMSIS\Include\core_cm3.h
+.\objects\delay.o: F:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delay.o: ..\..\..\..\Libraries\CMSIS\Include\cmsis_version.h
+.\objects\delay.o: ..\..\..\..\Libraries\CMSIS\Include\cmsis_compiler.h
+.\objects\delay.o: ..\..\..\..\Libraries\CMSIS\Include\cmsis_armcc.h
+.\objects\delay.o: ..\..\..\..\Libraries\Device\Geehy\APM32E10x\Include\system_apm32e10x.h
+.\objects\delay.o: ..\..\..\..\Libraries\APM32E10x_StdPeriphDriver\inc\apm32e10x_misc.h
